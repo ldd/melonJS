@@ -18,6 +18,9 @@ npm-debug.log
 *.sublime-project
 *.sublime-workspace
 
+#webstorm files
+.idea
+
 # Project specific ignore
 add-on/
 bower_components/
